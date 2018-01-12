@@ -1,0 +1,1 @@
+python3 ./hw6_p3.py $2 $3
